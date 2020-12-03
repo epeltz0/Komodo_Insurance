@@ -1,0 +1,9 @@
+C:\Users\15746\source\repos\ConsoleApp_k\Developers_Repository\bin\Debug\netstandard2.0\Developers_Repository.deps.json
+C:\Users\15746\source\repos\ConsoleApp_k\Developers_Repository\bin\Debug\netstandard2.0\Developers_Repository.dll
+C:\Users\15746\source\repos\ConsoleApp_k\Developers_Repository\bin\Debug\netstandard2.0\Developers_Repository.pdb
+C:\Users\15746\source\repos\ConsoleApp_k\Developers_Repository\obj\Debug\netstandard2.0\Developers_Repository.csprojAssemblyReference.cache
+C:\Users\15746\source\repos\ConsoleApp_k\Developers_Repository\obj\Debug\netstandard2.0\Developers_Repository.AssemblyInfoInputs.cache
+C:\Users\15746\source\repos\ConsoleApp_k\Developers_Repository\obj\Debug\netstandard2.0\Developers_Repository.AssemblyInfo.cs
+C:\Users\15746\source\repos\ConsoleApp_k\Developers_Repository\obj\Debug\netstandard2.0\Developers_Repository.csproj.CoreCompileInputs.cache
+C:\Users\15746\source\repos\ConsoleApp_k\Developers_Repository\obj\Debug\netstandard2.0\Developers_Repository.dll
+C:\Users\15746\source\repos\ConsoleApp_k\Developers_Repository\obj\Debug\netstandard2.0\Developers_Repository.pdb

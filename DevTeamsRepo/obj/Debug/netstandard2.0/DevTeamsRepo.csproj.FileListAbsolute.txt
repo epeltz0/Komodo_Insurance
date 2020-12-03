@@ -1,0 +1,12 @@
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\bin\Debug\netstandard2.0\DevTeamsRepo.deps.json
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\bin\Debug\netstandard2.0\DevTeamsRepo.dll
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\bin\Debug\netstandard2.0\DevTeamsRepo.pdb
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\obj\Debug\netstandard2.0\DevTeamsRepo.csprojAssemblyReference.cache
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\obj\Debug\netstandard2.0\DevTeamsRepo.AssemblyInfoInputs.cache
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\obj\Debug\netstandard2.0\DevTeamsRepo.AssemblyInfo.cs
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\obj\Debug\netstandard2.0\DevTeamsRepo.csproj.CoreCompileInputs.cache
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\obj\Debug\netstandard2.0\DevTeamsRepo.dll
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\obj\Debug\netstandard2.0\DevTeamsRepo.pdb
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\bin\Debug\netstandard2.0\Developers_Repository.dll
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\bin\Debug\netstandard2.0\Developers_Repository.pdb
+C:\Users\15746\source\repos\ConsoleApp_k\DevTeamsRepo\obj\Debug\netstandard2.0\DevTeamsRepo.csproj.CopyComplete
